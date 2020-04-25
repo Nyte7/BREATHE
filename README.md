@@ -13,3 +13,5 @@ To retrofit an existing mask:
 For the gasket material (or inner diaphragm), you can use a TPE rubber sheet that is 1/32 inch or thinner.  It should be cut 3.1cm in diameter.  A tiny hole is then poked in the center of the diaphragm.  The diaphragm is then inserted over the peg in the bottem shell part all the way down and pressed against it so that it remains as flat as possible.
 
 The valve gets tighter as it is rotated to accompany most respirator materials (from thick N95 masks to thin surgical masks).  Don't over-tighten as it may snap.
+
+This is provided for personal use only.  Commercial re-sale of this design is not permitted.
